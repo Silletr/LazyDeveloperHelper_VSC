@@ -1,9 +1,16 @@
-## Category
+## 💡 Category
+- [ ] I suggest new AI-API/AI-model
+- [ ] I have issue with AI
 
-- [ ] Installer code issue (subprocess, naming, etc.)
-- [ ] Security issue (memory leaks, etc.)
 
-## What need to change: 
-Your suggestion...
+## 📝 Detailed issue:
+....
 
-## Why need change:
+---
+
+## ❔ What need to change:
+**Describe here**
+
+
+## 🖥️ Screenshots 
+...
