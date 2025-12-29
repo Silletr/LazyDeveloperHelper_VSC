@@ -1,24 +1,24 @@
 ---
-name: LUA_ISSUE
-about: Lua issues with connecting python, supporting langagues, etc
-title: "[LUA-BUG]"
+name: AI_ISSUE
+about: Issue with AI model, connecting, or prompt 
+title: "[AI-ISSUE]"
 labels: ''
 assignees: ''
 
 ---
 
-## Category
+## 💡 Category
 
-- [ ] Issue with supporting languages
-- [ ] Issue with Lua code
+- [ ] I suggest new prompt 
+- [ ] I have issue with AI
 
-## Detailed issue:
+## 📝 Detailed issue:
 
 ....
 
-## What need to change
-filename.lua:
-Your suggestion...
+## ❔ What need to change:
+**Describe here**
 
-## Why need to change
-etc.,
+## 🖥️ Screenshots 
+...
+
