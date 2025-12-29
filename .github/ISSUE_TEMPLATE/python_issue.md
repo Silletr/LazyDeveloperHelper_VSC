@@ -7,8 +7,8 @@ assignees: ''
 ---
 
 ## 💡 Category
-- [ ] I suggest new AI-API/AI-model
-- [ ] I have issue with AI
+- [ ] I suggest new method of connection to AI
+- [ ] I have issue with code (dependencies missing, unique errors, anything else)
 
 
 ## 📝 Detailed issue:
